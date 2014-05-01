@@ -27,7 +27,7 @@ import urllib2
 import shutil
 import json
 
-apiKey = "f3155b96e8674596b9669ef3397a58b4"
+apiKey = "xxx"
 srv = "http://192.168.2.101:5050"
 
 
